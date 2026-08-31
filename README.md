@@ -1,4 +1,4 @@
-# Somewhere — a random-world-photo Svelte app
+emjjkk/earth-is-beautiful
 
 Fills the page with a random geotagged photo from Wikimedia Commons.
 
