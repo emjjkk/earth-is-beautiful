@@ -1,4 +1,4 @@
-emjjkk/earth-is-beautiful
+# emjjkk/earth-is-beautiful
 
 Fills the page with a random geotagged photo from Wikimedia Commons.
 
