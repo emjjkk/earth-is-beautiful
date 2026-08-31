@@ -1,8 +1,6 @@
 # Somewhere — a random-world-photo Svelte app
 
-Fills the page with a random geotagged photo from Wikimedia Commons. A small
-round pin button sits in the corner; hover it to see where the photo was
-taken and who shot it, click it to open the original file page on Commons.
+Fills the page with a random geotagged photo from Wikimedia Commons.
 
 ## How it works
 
